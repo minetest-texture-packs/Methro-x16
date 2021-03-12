@@ -31,6 +31,7 @@ Here is the full list of the supported mods:
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `flowers` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `bucket` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 
 ## License
 
