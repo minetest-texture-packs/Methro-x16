@@ -20,7 +20,7 @@ For further information or help, see:\
 
 ## Supported mods
 
-Methro Pack supports a lot of variety of mods.
+Methro Pack supports a lot of a variety of mods.
 Here is the full list of the supported mods:
 
 - [More Ores](https://github.com/minetest-mods/moreores)
@@ -37,4 +37,4 @@ Here is the full list of the supported mods:
 
 Copyright (C) 2021 Methro, Gabriel Rangel (silentxe1@gmail.com)
 
-See [`LICENSE`](https://github.com/Methro/Methro-Pack/blob/main/LICENSE) file for more information.
+See the [`LICENSE`](https://github.com/Methro/Methro-Pack/blob/main/LICENSE) file for more information.
