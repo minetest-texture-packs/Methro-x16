@@ -27,6 +27,7 @@ Here is the full list of the supported mods:
 - [Capture the Flag](https://github.com/MT-CTF/capturetheflag)
 - [Enderpearl](https://gitlab.com/zughy-friends-minetest/enderpearl)
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
+- [Simple Shooter](https://github.com/stujones11/shooter)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
@@ -37,4 +38,4 @@ Here is the full list of the supported mods:
 
 Copyright (C) 2021 Methro, Gabriel Rangel (silentxe1@gmail.com)
 
-See the [`LICENSE`](https://github.com/Methro/Methro-Pack/blob/main/LICENSE) file for more information.
+See the [`LICENSE`](https://github.com/Methro/methro_pack/blob/main/LICENSE) file for more information.
