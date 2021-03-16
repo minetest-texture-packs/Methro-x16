@@ -38,4 +38,4 @@ Here is the full list of the supported mods:
 
 Copyright (C) 2021 Methro, Gabriel Rangel (silentxe1@gmail.com)
 
-See the [`LICENSE`](https://github.com/Methro/methro_pack/blob/main/LICENSE.md) file for more information.
+See the [`LICENSE.md`](https://github.com/Methro/methro_pack/blob/main/LICENSE.md) file for more information.
