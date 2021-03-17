@@ -181,7 +181,7 @@ For the avoidance of doubt, this Section [6(b)](https://creativecommons.org/lice
 
 For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-ections [1](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s1), [5](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s5), [6](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s6), [7](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s7), and [8](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s8) survive termination of this Public License.
+sections [1](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s1), [5](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s5), [6](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s6), [7](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s7), and [8](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s8) survive termination of this Public License.
 
 ## Section 7 – Other Terms and Conditions
 
