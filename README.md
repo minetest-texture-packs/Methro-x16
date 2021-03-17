@@ -33,6 +33,7 @@ Here is the full list of the supported mods:
 - [Enderpearl](https://gitlab.com/zughy-friends-minetest/enderpearl)
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
 - [Simple Shooter](https://github.com/stujones11/shooter)
+- [Multitools](https://github.com/ChimneySwift/multitools)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
