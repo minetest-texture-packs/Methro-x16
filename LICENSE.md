@@ -121,17 +121,17 @@ retain the following if it is supplied by the Licensor with the Licensed Materia
 
 dentification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
 
-a copyright notice;
+- A copyright notice;
 
-a notice that refers to this Public License;
+- A notice that refers to this Public License;
 
-a notice that refers to the disclaimer of warranties;
+- A notice that refers to the disclaimer of warranties;
 
-a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+- A URL or hyperlink to the Licensed Material to the extent reasonably practicable;
 
-indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+- Indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 
-indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+- Indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
 You may satisfy the conditions in Section [3(a)(1)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
 
