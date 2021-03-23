@@ -34,6 +34,7 @@ Here is the full list of the supported mods:
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
 - [Simple Shooter](https://github.com/stujones11/shooter)
 - [Multitools](https://github.com/ChimneySwift/multitools)
+- [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
