@@ -4,6 +4,8 @@ A Minetest texture pack based for PvP.
 
 ![Screenshot](https://raw.githubusercontent.com/Methro/methro_pack/main/screenshot.png)
 
+![Screenshot](https://content.minetest.net/uploads/zJOWE2wuPT.png)
+
 [![ContentDB](https://content.minetest.net/packages/Methro/methro_pack/shields/title/)](https://content.minetest.net/packages/Methro/methro_pack/)
 [![ContentDB](https://content.minetest.net/packages/Methro/methro_pack/shields/downloads/)](https://content.minetest.net/packages/Methro/methro_pack/)
 [![License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
