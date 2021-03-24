@@ -4,7 +4,7 @@ A Minetest texture pack based for PvP.
 
 ![Screenshot](https://raw.githubusercontent.com/Methro/methro_pack/main/screenshot.png)
 
-![Screenshot](https://content.minetest.net/uploads/zJOWE2wuPT.png)
+![Screenshot](https://content.minetest.net/uploads/GQov0wHZhD.png)
 
 ![Screenshot](https://content.minetest.net/uploads/uVbeTzaew6.png)
 
