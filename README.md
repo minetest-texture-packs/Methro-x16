@@ -13,7 +13,7 @@ A Minetest texture pack based for PvP.
 [![License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Methro/donate)
 [![Receives](https://img.shields.io/liberapay/receives/Methro.svg)](https://liberapay.com/Methro)
-[![Goal](https://img.shields.io/liberapay/goal/Methro.svg)](https://liberapay/Methro)
+[![Goal](https://img.shields.io/liberapay/goal/Methro.svg)](https://liberapay.com/Methro)
 
 ## Installation
 
