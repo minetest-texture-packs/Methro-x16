@@ -38,6 +38,7 @@ Here is the full list of the supported mods:
 - [Capture the Flag](https://github.com/MT-CTF/capturetheflag)
 - [Enderpearl](https://gitlab.com/zughy-friends-minetest/enderpearl)
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
+- [Vehicle Mash](https://github.com/minetest-mods/vehicle_mash)
 - [Simple Shooter](https://github.com/stujones11/shooter)
 - [Multitools](https://github.com/ChimneySwift/multitools)
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
