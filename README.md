@@ -43,6 +43,8 @@ Here is the full list of the supported mods:
 - [Multitools](https://github.com/ChimneySwift/multitools)
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `doors` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `binoculars` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
 - `flowers` (included in [Minetest Game](https://github.com/minetest/minetest_game))
