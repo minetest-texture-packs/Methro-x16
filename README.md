@@ -2,11 +2,7 @@
 
 A Minetest texture pack based for PvP.
 
-![Screenshot](https://raw.githubusercontent.com/Methro/methro_pack/main/screenshot.png)
-
-![Screenshot](https://content.minetest.net/uploads/GQov0wHZhD.png)
-
-![Screenshot](https://content.minetest.net/uploads/uVbeTzaew6.png)
+![Alt text](https://media3.giphy.com/media/LH04TXp00FE6kzzACE/giphy.gif)
 
 [![ContentDB](https://content.minetest.net/packages/Methro/methro_pack/shields/title/)](https://content.minetest.net/packages/Methro/methro_pack/)
 [![ContentDB](https://content.minetest.net/packages/Methro/methro_pack/shields/downloads/)](https://content.minetest.net/packages/Methro/methro_pack/)
