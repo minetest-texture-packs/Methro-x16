@@ -36,6 +36,7 @@ Here is the full list of the supported mods:
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
 - [Vehicle Mash](https://github.com/minetest-mods/vehicle_mash)
 - [Simple Shooter](https://github.com/stujones11/shooter)
+- [3D Armor](https://github.com/minetest-mods/3d_armor)
 - [Multitools](https://github.com/ChimneySwift/multitools)
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
