@@ -37,6 +37,7 @@ Here is the full list of the supported mods:
 - [Vehicle Mash](https://github.com/minetest-mods/vehicle_mash)
 - [Simple Shooter](https://github.com/stujones11/shooter)
 - [3D Armor](https://github.com/minetest-mods/3d_armor)
+- [3D Gloves](https://github.com/sirrobzeroone/3d_armor_gloves)
 - [Multitools](https://github.com/ChimneySwift/multitools)
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
 - `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
