@@ -1,6 +1,6 @@
 # License for textures/media
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\
 Copyright (C) 2021 Methro, Gabriel Rangel (silentxe1@gmail.com)
 
 ## You are free to
