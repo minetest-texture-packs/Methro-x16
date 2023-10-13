@@ -40,16 +40,18 @@ Here is the full list of the supported mods:
 - [3D Gloves](https://github.com/sirrobzeroone/3d_armor_gloves)
 - [Multitools](https://github.com/ChimneySwift/multitools)
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
-- `farming` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `doors` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `binoculars` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `flowers` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `bucket` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `farming` (included in [Minetest Game][MTG])
+- `doors` (included in [Minetest Game][MTG])
+- `binoculars` (included in [Minetest Game][MTG])
+- `default` (included in [Minetest Game][MTG])
+- `fire` (included in [Minetest Game][MTG])
+- `flowers` (included in [Minetest Game][MTG])
+- `bucket` (included in [Minetest Game][MTG])
 
 ## License
 
 Copyright (C) 2021 Methro, Gabriel Rangel **silentxe1@gmail.com**
 
 See the [`LICENSE.md`](https://github.com/minetest-texture-packs/methro_pack/blob/main/LICENSE.md) file for more information.
+
+[MTG]: https://github.com/minetest/minetest_game
