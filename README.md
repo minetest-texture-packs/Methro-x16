@@ -25,29 +25,30 @@ Methro Pack supports a variety of mods, and the some of the following mods are i
 
 - [3D Armor](https://github.com/minetest-mods/3d_armor)
 - [3D Gloves](https://github.com/sirrobzeroone/3d_armor_gloves)
-- `bones` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `butterflies` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `bones` (included in [Minetest Game][MTG])
+- `butterflies` (included in [Minetest Game][MTG])
 - [Capture the Flag](https://github.com/MT-CTF/capturetheflag)
-- `carts` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `carts` (included in [Minetest Game][MTG])
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
-- `default` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `doors` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `dye` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `default` (included in [Minetest Game][MTG])
+- `doors` (included in [Minetest Game][MTG])
+- `dye` (included in [Minetest Game][MTG])
 - [Enderpearl](https://gitlab.com/zughy-friends-minetest/enderpearl)
-- `fire` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `fireflies` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `flowers` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `fire` (included in [Minetest Game][MTG])
+- `fireflies` (included in [Minetest Game][MTG])
+- `flowers` (included in [Minetest Game][MTG])
 - [More Ores](https://github.com/minetest-mods/moreores)
 - [Simple Shooter](https://github.com/stujones11/shooter)
-- `screwdriver` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `tnt` (included in [Minetest Game](https://github.com/minetest/minetest_game))
+- `screwdriver` (included in [Minetest Game][MTG])
+- `tnt` (included in [Minetest Game][MTG])
 - [Unified Inventory](https://github.com/minetest-mods/unified_inventory)
-- `vessels` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-- `xpanes` (included in [Minetest Game](https://github.com/minetest/minetest_game))
-
+- `vessels` (included in [Minetest Game][MTG])
+- `xpanes` (included in [Minetest Game][MTG])
 
 ## License
 
 Copyright (C) 2021 Methro, Gabriel Rangel **silentxe1@gmail.com**
 
 See the [`LICENSE.md`](https://github.com/minetest-texture-packs/methro_pack/blob/main/LICENSE.md) file for more information.
+
+[MTG]: https://github.com/minetest/minetest_game
