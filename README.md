@@ -47,7 +47,7 @@ Methro Pack supports a variety of mods, and the some of the following mods are i
 
 ## License
 
-Copyright (C) 2021 Methro, Gabriel Rangel **silentxe1@gmail.com**
+Copyright (C) 2021-2023 Methro, Gabriel Rangel **silentxe1@gmail.com**
 
 See the [`LICENSE.md`](https://github.com/minetest-texture-packs/methro_pack/blob/main/LICENSE.md) file for more information.
 
